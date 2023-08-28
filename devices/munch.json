@@ -1,1 +1,27 @@
- 
+{
+	"response": [
+		{
+			"maintainer": "Mudit",
+			"oem": "Poco",
+			"device": "munch",
+			"filename": "PixelStar-Tiramisu-munch-13.0-20230828-0524-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/pixelstar/files/munch/Releases/PixelStar-Tiramisu-munch-13.0-20230828-0524-OFFICIAL.zip/download",
+			"timestamp": 1693200137,
+			"md5": "81e3060cb4529406ebc84c2619f2c5d2",
+			"sha256": "d3fe68cc884c6345528769bd19cac1625ae0500e2bdcca1cbbf00f515551cdf7",
+			"size": 1909574873,
+			"version": Tiramisu,
+			"buildtype": "Android 13 QPR3",
+			"forum": "https://t.me/Project_PixelStar",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/munch/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://orangefox.download/device/munch",
+			"paypal": "https://www.paypal.com/paypalme/mudit2004",
+			"telegram": "https://t.me/Mudit1808",
+			"dt": "https://github.com/pixelstar-devices/device_xiaomi_munch",
+			"common-dt": "",
+			"kernel": "https://github.com/projects-nexus/nexus_kernel_xiaomi_sm8250"
+		}
+	]
+}

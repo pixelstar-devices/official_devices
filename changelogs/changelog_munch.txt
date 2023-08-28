@@ -1,1 +1,32 @@
- 
+
+Device: Poco F4/Redmi K40s
+Device code name : munch
+Device maintainer: Mudit
+
+DO A CLEAN FLASH
+
+Notes:
+- Flash 14.x regional Firmware
+- Let the rom settle
+- BB improves after 1-2 cycles
+- DC Dimming need kernel side support
+- Leica Micam build in [4K recording broken]
+- No Heating issues were found in testing
+- Dolby And Diarac Build in
+
+Date - 28-08-23
+=================
+
+Device Changelog:
+- Upstreamed to Nexus Kernel v13+
+- Added Interaction Boost in powerhint
+- Replaced to Moto Dolby
+- Added Vendor Defined color modes (p3, sRGB, etc)
+- Switch to ims.apk from munch V14.0.3.0.TLMMIXM
+- Added Option to disable fastcharging
+- Use the new auto network selection UI
+- Update deprecated screen power items
+- Use 1080p for Boot-animation
+- Nuked Aperture Camera
+
+
