@@ -1,0 +1,24 @@
+
+Device: Oneplus 9R
+Device code name : lemonades
+Device maintainer: Tanuj
+
+DO A CLEAN FLASH
+
+Notes:
+- Let the rom settle
+- BB improves after 1-2 cycles
+
+Date - 18-09-23
+=================
+
+Device Changelog:
+- Initial Official Release
+- Dolby Atmos Inbuilt
+- Implemented Pickup Gesture
+- Updated kernel base from lineage
+- Fixed low mic issue on some apps
+- Modified refresh rate timers
+- Kanged Carrierconfig from Nothing Phone 1
+- Optimized auto brightness adjustment
+- Improve overall stability and performance
