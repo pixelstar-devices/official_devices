@@ -1,5 +1,43 @@
 # Source Changelog #
 
+## September Update ##
+- Merged September Patch
+- Update PixelProps Fingerprints to August
+- Redesign icons with better implementation
+- Switch to Pixel Launcher Extended
+- Extend Fastcharge implementation
+- Guard Fastcharge with overlay to fix log spam on devices which are not using it
+- Allow setting wake for notification separately from doze
+- Allow disabling clipboard overlay
+- Add Data usage in qs footer
+- Add AOD when charging
+- Update Gapps for September
+- Remove some bad picks and clean up
+- Add support for Dolby Atmos Decoders
+- Disable dual tone in split notifications (fixes padding)
+- Add support for Oplus Camera
+- Introduce Bluetooth Timeout
+- Introduc Wifi Timeout
+- Introduce App lock
+- Introduce Data Save QS tile
+- Introduce Sound Search QS tile
+- Introduce Full Screen Apps
+- Nuke Immersive Gestures
+- Introduce Hide IME
+- Fix glitchy charging info on AOD
+- Show active state even for vibrate mode on Sound tile
+- Improve blur handling in respect to app launch animations
+- Optimize ripple animation
+- Disable notification headers when using split shade
+- Improve QS notification expansion animation
+- Fix Screen does not wake up while receiving whatsapp video call
+- Disable blur wakeup animation
+- Add statusbar NFC icon
+- Add VPN to the icon blacklist in tuner
+- Kill logcat spam on devices without QPerformance
+- Force fullscreen for Google Dialer
+- Improve Optimizations and Stability
+
 ## Stable ##
 - Merged August Patch
 - Update PixelProps Fingerprints to August
