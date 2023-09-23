@@ -1,7 +1,7 @@
 
 Device: Oneplus 9R
 Device code name : lemonades
-Device maintainer: Tanuj
+Device maintainer: Tanuj Dhama
 
 DO A CLEAN FLASH
 
@@ -22,3 +22,10 @@ Device Changelog:
 - Kanged Carrierconfig from Nothing Phone 1
 - Optimized auto brightness adjustment
 - Improve overall stability and performance
+
+Date - 23-09-23
+
+Device Changelog:
+- Fixed Some Under the hood Bugs
+- CTS Pass by Default
+- Fixed Random Battery Drain 
