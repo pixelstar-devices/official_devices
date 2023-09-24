@@ -1,0 +1,24 @@
+Devuce: Redmi Note 10 5G/Poco M3 Pro 5G
+Device code name: camellia/camellian
+Device maintainer: Noah
+
+DO A CLEAN FLASH
+
+Notes:
+- Flash with PixelStar recovery
+- Flash 14.0.5 Global Firmware
+- Bluetooth audio randomly disconnects (50/50)
+
+Date - 24-09-23
+=================
+
+Device Changelog:
+- Update blobs to V14.0.5.0.TKSMIXM
+- Added task_profiles configuration 
+- Added thermal per-app and adapt to camellia
+- Added Lift to Check
+- Adjust Powerhal values
+- Optimized auto brightness adjustment
+- Increased brightness situation
+- Improve overall stability and performance
+- Switched to Pixel thermal hal

@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "Noah",
+			"oem": "Redmi",
+			"device": "camellia",
+			"filename": "PixelStar-Tiramisu-camellia-13.0-20230924-0811-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/pixelstar/files/camellia/Releases/PixelStar-Tiramisu-camellia-13.0-20230924-0939-OFFICIAL.zip",
+			"timestamp": 1695557075 ,
+			"md5": "8063fa308f2e371b35b84e5ac8e24927 ",
+			"sha256": "98e402d21110e339c586b79a7d2a1b15d1bd86ab3a549a77df84253f6b71b861 ",
+			"size": 1540344007,
+			"version": Tiramisu,
+			"buildtype": "Android 13 QPR3",
+			"forum": "https://t.me/Project_PixelStar",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/camellian/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/pixelstar/files/camellia/Releases/boot.img",
+			"paypal": "https://www.paypal.com/paypalme/mudit2004",
+			"telegram": "https://t.me/noah_allen",
+			"dt": "https://github.com/pixelstar-devices/device_xiaomi_camellia",
+			"common-dt": "",
+			"kernel": "https://github.com/Noah113-Allen/device_xiaomi_camellia-kernel"
+		}
+	]
+}
