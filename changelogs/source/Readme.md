@@ -1,5 +1,15 @@
 # Source Changelog #
 
+## 28th September ##
+- Addressed Battery drain caused by Pixel Launcher and ASI
+- Handle zero auto brightness adjustment
+- BatteryStatsImpl: Fix divide by zero error
+- Refactor data usage code and typography
+- Added a accent chip for QS Data Usage
+- Pass correct invocation type for assistant launch on home long press
+- Follow lighter accent on edit in QS Footer and back icon
+- Make userdebug default to NO_LOGGING
+
 ## September Update ##
 - Merged September Patch
 - Update PixelProps Fingerprints to August
