@@ -3,8 +3,6 @@ Device: Poco F4/Redmi K40s
 Device code name : munch
 Device maintainer: Mudit
 
-DO A CLEAN FLASH
-
 Notes:
 - Flash 14.x regional Firmware
 - Let the rom settle
