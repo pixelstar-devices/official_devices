@@ -13,6 +13,27 @@ Notes:
 - Dolby And Diarac Build in
 - Don't report bugs with custom kernels
 
+Date - 29-09-23
+=================
+- Switched to Nexus Kernel v12 (bb improved)
+- Fix google recorder not working
+- Added props to enable voNR
+- Add allocator entry in VINTF
+- Import suspend properties from gs101
+- properly set the permissions for palm_sensor
+- Enable Optimized Power Management
+- Do not set refresh rate when display is off
+- Disable BT A2DP AAC whitelist
+- Enable Qualcomm TrueWireless™ Stereo
+- Enable TWS plus feature using persist property
+- Add power off alarm service support in dt
+- sepolicy: address wifi hal denials
+- powerhint: Set screen-off schedutil ratelimits
+- Enable Rich-Communication Services
+- Properly disable phantom process killing
+- Disable debug.sf.latch_unsignaled
+- Nuke spatial audio from BT SCO routes
+
 Date - 25-09-23
 =================
 - Upstreamed Nexus Kernel
