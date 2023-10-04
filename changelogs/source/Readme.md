@@ -1,5 +1,10 @@
 # Source Changelog #
 
+## EOL A13 ##
+- Add Linage Health Support
+- Fixed QS Lags in Light theme on some devices
+- Improvements in stability
+
 ## 28th September ##
 - Addressed Battery drain caused by Pixel Launcher and ASI
 - Handle zero auto brightness adjustment
