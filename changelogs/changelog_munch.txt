@@ -12,6 +12,18 @@ Notes:
 - No Heating issues were found in testing
 - Dolby And Diarac Build in
 - Don't report bugs with custom kernels
+- Flash Global Firmware for better BB
+
+Date - 04-10-23 [EOL]
+=================
+- Switched to SurgeX-v2 Kernel [LOS BASE] [HBM, DC Dimming, KSU Supported]
+- Fixed QS Lags in Light theme
+- Nuke voNR Support
+- Add QTI Thermal
+- Add miperf support
+- Move to Qualcomm USB Audio Policy configuration
+- Update blobs to V14.0.4.0.TLMMIXM
+- Build lineage health HAL
 
 Date - 29-09-23
 =================
